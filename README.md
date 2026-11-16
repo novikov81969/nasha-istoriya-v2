@@ -112,9 +112,9 @@ npm run preview
 
 ## Публикация на GitHub Pages
 
-Сайт уже опубликован: **https://novikov81969.github.io/nasha-istoriya/**
+Сайт уже опубликован: **https://novikov81969.github.io/nasha-istoriya-v2/**
 
-Репозиторий: **https://github.com/novikov81969/nasha-istoriya**
+Репозиторий: **https://github.com/novikov81969/nasha-istoriya-v2**
 
 Публикация автоматическая: при каждом пуше в `main` GitHub Actions собирает проект и выкладывает `dist` на GitHub Pages (`.github/workflows/deploy.yml`). Отдельно собирать и куда-то копировать ничего не нужно.
 
